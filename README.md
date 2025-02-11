@@ -30,5 +30,7 @@ python3 gateway.py
  ### **Testing the API**
 Use curl or a browser to test the endpoints:
 curl -X GET http://<gateway-ip>:8079/users
+
 or,
+
 curl -X GET http://<gateway-ip>:8079/orders
